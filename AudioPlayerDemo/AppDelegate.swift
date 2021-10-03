@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  AudioPlayerDemo
+//  AudioStreamingDemo
 //
-//  Created by scho on 2021/10/03.
+//  Created by 41nyaa on 2021/10/02.
 //
 
 import UIKit
@@ -30,7 +30,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // If any sessions were discarded while the application was not running, this will be called shortly after application:didFinishLaunchingWithOptions.
         // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
     }
-
 
 }
 

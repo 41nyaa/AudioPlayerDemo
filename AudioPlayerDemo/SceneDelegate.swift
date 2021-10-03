@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  AudioPlayerDemo
+//  AudioStreamingDemo
 //
-//  Created by scho on 2021/10/03.
+//  Created by 41nyaa on 2021/10/02.
 //
 
 import UIKit
